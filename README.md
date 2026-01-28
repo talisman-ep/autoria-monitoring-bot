@@ -1,5 +1,6 @@
 #🚗 AutoRia Real-Time Monitoring Bot
 
+[![Python Application CI](https://github.com/talisman-ep/AutoRia-Scraping-Bot-Python-/actions/workflows/python-app.yml/badge.svg)](https://github.com/talisman-ep/AutoRia-Scraping-Bot-Python-/actions/workflows/python-app.yml)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.x-26A5E4?logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
